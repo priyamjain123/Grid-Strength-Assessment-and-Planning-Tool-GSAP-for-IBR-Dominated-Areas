@@ -1,0 +1,2 @@
+# Grid-Strength-Assessment-and-Planning-Tool-GSAP-for-IBR-Dominated-Areas
+GSAP is a python based tool whic automates grid strength assessment and planning for IBR-dominated networks by evaluating SCR and SCR-IF under base and contingency conditions. It captures the influence of fast voltage-controlling devices, and identifies optimal placement of SynCONs and GFMs (grid-forming resources) at candidate buses.
